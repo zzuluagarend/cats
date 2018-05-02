@@ -1,0 +1,17 @@
+var practice_trials = [
+	{question: "How does this piggy look?", 
+	 option1: "cute", 
+	 option2: "ugly", 
+	 option3: "scary",
+	 picture: "images/catpics/cp.jpeg"},
+	{question: "How does this bird look?", 
+	 option1: "cute", 
+	 option2: "ugly", 
+	 option3: "scary",
+	 picture: "images/catpcis/ub.jpg"},
+	 {question: "How does this dog look?", 
+	 option1: "cute", 
+	 option2: "ugly", 
+	 option3: "scary",
+	 picture: "images/catpcis/sd.jpeg"},
+];
